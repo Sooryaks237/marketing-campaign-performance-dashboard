@@ -5,16 +5,21 @@
 📊 **Tools Used**: Power BI | Kaggle Dataset  
 
 ---
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data Structure](#data-structure)
+- [Methodology](#methodology)
+- [Key Insights](#key-insights)  
+- [Dashboard Preview ](#dashboard-preview)
 
-## 📌 Project Overview  
+---
+## Project Overview  
 This project presents a **Marketing Campaign Performance Dashboard** built in Power BI.  
 It provides **interactive insights across channels, customer segments, gender, and locations**, helping stakeholders evaluate **spend efficiency, conversions, ROI, and CTR performance**.  
 
 ---
 
-## 📂 Dataset Details  
-Dataset: [Marketing Campaign Performance Dataset (Kaggle)](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset)  
-
+## Data Structure  
 Features include:  
 - Campaign Type & Channel Used  
 - Spend & Estimated Conversions  
@@ -26,14 +31,15 @@ Features include:
 ---
 
 ## 📂 Project Files  
-- `Marketing campaign performance dashboard.pbix` → Power BI dashboard file  
+- `Marketing campaign performance dashboard.pbix` → Power BI dashboard file
+- Dataset: [Marketing Campaign Performance Dataset (Kaggle)](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset)  
 - `README.md` → Project documentation  
 - `Insights_Report.md` → Detailed insights & recommendations  
 - 📸 Dashboard screenshot (see below)  
 
 ---
 
-## 🔍 Methodology  
+## Methodology  
 1. **Data Cleaning & Preparation**
    - Handled missing or inconsistent campaign entries.  
    - Verified data types for Spend, CTR, and ROI%.  
@@ -61,7 +67,7 @@ Features include:
 
 ---
 
-## 📈 Key Insights  
+## Key Insights  
 - **Google Ads** & **Email** delivered the highest ROI efficiency. 
 - **Age groups 25–34** and **35–44** showed strongest ROI (35%+).
 - High spending in **Miami, Chicago, Los Angeles, and New York**. 
