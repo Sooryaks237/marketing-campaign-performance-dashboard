@@ -10,7 +10,6 @@
 - [Data Structure](#data-structure)
 - [Methodology](#methodology)
 - [Key Insights](#key-insights)  
-- [Dashboard Preview ](#dashboard-preview)
 
 ---
 ## Project Overview  
