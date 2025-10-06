@@ -75,7 +75,7 @@ Features include:
 
 - For a deeper breakdown of campaign performance, view the complete [Insights Report](insights.md).
 ---
-## 📸 Dashboard Preview  
+## Dashboard Preview  
 
 ![Marketing Campaign Dashboard](dashboard_preview.png)
 
