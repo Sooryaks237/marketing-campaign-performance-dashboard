@@ -72,7 +72,7 @@ Features include:
 - High spending in **Miami, Chicago, Los Angeles, and New York**. 
 - CTR remained stable around 10%, but Weighted Conversion Rate showed a decline in later months.
 
-- For a deeper breakdown of campaign performance, view the complete [Insights Report](insights_reports.md).
+- For a deeper breakdown of campaign performance, view the complete [Insights Report](Insights_Report.md).
 ---
 ## Dashboard Preview  
 
